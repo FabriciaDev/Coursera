@@ -1,5 +1,5 @@
 # Coursera
-Repositorios com cursos do cousera
+Repositorios com as anotações dos cursos promovidos pelo Google no Cousera
 ## Curso de Suporte de TI do Google
 https://docs.google.com/document/d/16HHOfZF09hZ698c8shnknklwPLFtpeegve98UdkvR28/edit?usp=sharing
 ## Curso de Fundamentos do design da experiência do usuário (UX)
